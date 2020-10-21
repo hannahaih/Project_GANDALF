@@ -1,5 +1,5 @@
 # GAN-DALF
-**_teaching GAN-DALF to make art_**
+   **_teaching GAN-DALF to make art_**
 
 
 
