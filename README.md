@@ -37,8 +37,10 @@ This is the 1st generation status of project GAN-DALF after 30 sessions (each wi
 ## Project Description
 
 Deep Learning with PyTorch
-  - Based on "Generative Adversarial Nets" paper: https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf / https://arxiv.org/abs/1406.2661
-  - DCGAN PyTorch implementation follows this example: https://github.com/pytorch/examples
+  - Based on "Generative Adversarial Nets" paper: 
+      https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf / https://arxiv.org/abs/1406.2661
+  - DCGAN PyTorch implementation follows this example: 
+      https://github.com/pytorch/examples
 
 
 
