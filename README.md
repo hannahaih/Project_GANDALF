@@ -47,9 +47,10 @@ Deep Learning with PyTorch
 ## Dataset
 
 1) Frames of Videos by Hannah Reber and Gert-Jan Akerboom
-
-    https://makersplace.com/gertjanakerboomloops
-    www.hannahreber.de
+        
+      https://makersplace.com/gertjanakerboomloops
+    
+      www.hannahreber.de
 
 
 2) Generated pictures by GAN-DALF in "god" folders
@@ -64,7 +65,7 @@ After every session I made a selection of generated pictures and introduced them
 
 ## Links
 
-[Repository](https://github.com/hannahaih/GAN_DALF.git)  
+[Repository](https://github.com/hannahaih/Project-GANDALF.git)  
 [Slides](https://docs.google.com/presentation/d/1mHoXyQtSCE_kiChOERCEBBLBbHhAH3XoZRZxUVj2kP0/edit?usp=sharing)  
 
 
