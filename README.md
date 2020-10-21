@@ -7,7 +7,7 @@ teaching GAN-DALF to make art
 
 
 
-#### Graduation Project Data Science, Ironhack Berlin
+#### Graduation Project ML Data Science, Ironhack Berlin
 
 
 
