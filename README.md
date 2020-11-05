@@ -1,4 +1,4 @@
-# GAN-DALF
+# GAN-DALF - PyTorch GAN Project
    **_teaching GAN-DALF to make art_**
 
 
