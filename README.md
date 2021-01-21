@@ -1,18 +1,11 @@
-# GAN-DALF - PyTorch GAN Project
-   **_teaching GAN-DALF to make art_**
+# GANDALF - PyTorch GAN Project
 
-
-
-
-
-Hannah Reber
-
-
-09.09.2020, Berlin
+**_teaching GANDALF to make art_**
+_Hannah Reber, Berlin, 2020/21_
 
 
 # Welcome!
-This is the home of GANDALF
+This is the home of GANDALF.
 
 
 
@@ -29,7 +22,7 @@ After every session I made a selection of generated pictures and introduced them
 
 Artworks by GANDALF on makersplace:
 
-- [GANDALF_2111] https://makersplace.com/hai/gandalf_2111-1-of-1-44402/
+- [GANDALF_2111](https://makersplace.com/hai/gandalf_2111-1-of-1-44402/)
 
 
 ## Links
