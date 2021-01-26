@@ -23,6 +23,7 @@ After every session I made a selection of generated pictures and introduced them
 
 Artworks by GANDALF on makersplace:
 
+January 2021 Edition
 - [GANDALF_2111](https://makersplace.com/hai/gandalf_2111-1-of-1-44402/)
 - [GANDALF_2112](https://makersplace.com/hai/gandalf_2112-1-of-1-44669/)
 
