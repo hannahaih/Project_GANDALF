@@ -12,7 +12,7 @@ This is the home of GANDALF.
 
 ## About GANDALF
 
-This is an artwork by the artificial intelligence GANDALF. GANDALF is a deep learning network with a GAN architecture (based on “Generative Adversarial Networks” [arXiv:1406.2661](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)) and has been trained to produce its own digital artworks since September 2020.
+GANDALF is a deep learning network with a GAN architecture (based on “Generative Adversarial Networks” [arXiv:1406.2661](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)) and has been trained to produce its own digital artworks since September 2020.
 
 I am collaborating with GANDALF as its trainer. To train GANDALF, I create various image dataset inputs. Based on those pictures GANDALF develops its own artistic visions.
 
