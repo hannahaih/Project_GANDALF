@@ -9,6 +9,8 @@
 This is the home of GANDALF.
 
 ![](https://github.com/hannahaih/Project_GANDALF/blob/main/gallery/gandalf1.gif)
+![](https://github.com/hannahaih/Project_GANDALF/blob/main/gallery/gandalf2.gif)
+![](https://github.com/hannahaih/Project_GANDALF/blob/main/gallery/gandalf3.gif)
 
 ## About GANDALF
 
