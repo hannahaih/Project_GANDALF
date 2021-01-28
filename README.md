@@ -8,7 +8,6 @@
 # Welcome!
 This is the home of GANDALF.
 
-![](https://github.com/hannahaih/Project_GANDALF/blob/main/gallery/gandalf2.gif)
 ![](https://github.com/hannahaih/Project_GANDALF/blob/main/gallery/gandalf1.gif)
 
 ## About GANDALF
@@ -35,4 +34,5 @@ January 2021 Edition
 [Slides](https://docs.google.com/presentation/d/1mHoXyQtSCE_kiChOERCEBBLBbHhAH3XoZRZxUVj2kP0/edit?usp=sharing)  
 
 
+![](https://github.com/hannahaih/Project_GANDALF/blob/main/gallery/gandalf2.gif)
 
