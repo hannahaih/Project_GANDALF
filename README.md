@@ -16,10 +16,10 @@ Written and trained to explore the latent space of her own intrinsic artistic pr
 
 ## Links
 
-[Repository](https://github.com/hannahaih/Project-GANDALF.git)  
-[Slides](https://docs.google.com/presentation/d/1mHoXyQtSCE_kiChOERCEBBLBbHhAH3XoZRZxUVj2kP0/edit?usp=sharing)  
+- [Repository](https://github.com/hannahaih/Project-GANDALF.git)  
+- [Slides](https://docs.google.com/presentation/d/1mHoXyQtSCE_kiChOERCEBBLBbHhAH3XoZRZxUVj2kP0/edit?usp=sharing)  
 
-Artworks available on Makersplace:
+**Artworks available on Makersplace:**
 
 - [GANDALF_2111](https://makersplace.com/hai/gandalf_2111-1-of-1-44402/)
 - [GANDALF_2112](https://makersplace.com/hai/gandalf_2112-1-of-1-44669/)
