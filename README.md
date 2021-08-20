@@ -1,7 +1,8 @@
 # GANDALF - PyTorch GAN Project
 
 **_teaching Gandalf to make art_**
- _Hannah Reber, Berlin, 2020/21_
+
+_Hannah Reber, Berlin, 2020/21_
 
 ## Welcome!
 This is the home of Gandalf.
