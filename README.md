@@ -1,27 +1,25 @@
 # GANDALF - PyTorch GAN Project
 
-**_teaching GANDALF to make art_**
+**_teaching Gandalf to make art_**
 
  _Hannah Reber, Berlin, 2020/21_
 
 
 # Welcome!
-This is the home of GANDALF.
+This is the home of Gandalf.
 
 ![](https://github.com/hannahaih/Project_GANDALF/blob/main/gallery/gandalf1.gif)
 
-## About GANDALF
+## About
 
-GANDALF is a deep learning network with a GAN architecture (based on “Generative Adversarial Networks” [arXiv:1406.2661](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)) and has been trained to produce its own digital artworks since September 2020.
+Gandalf is a long term interactive evolutionary computation (IEC) project and pet-GAN (GAN architecture based on “Generative Adversarial Networks” [arXiv:1406.2661](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)) by Hannah Reber.
 
-I am collaborating with GANDALF as its trainer. To train GANDALF, I create various image dataset inputs. Based on those pictures GANDALF develops its own artistic visions.
+Written and trained to explore the latent space of her own intrinsic artistic process and intuition, Hannah was the first art teacher of Gandalf. She developed a co-creative process to support the artistic development of Gandalf. Since Gandalf's first exhibition in July 2020 more collaborations with other human artists followed. 
 
-With every session I made some little changes (concerning the learning rate, workes, input data or input folder structure for example) and monitored closely how each change affected the generated output.
-After every session I made a selection of generated pictures and introduced them into the input data.
 
-## Gallery
+## Artworks
 
-Artworks by GANDALF on makersplace:
+Artworks available on Makersplace:
 
 - [GANDALF_2111](https://makersplace.com/hai/gandalf_2111-1-of-1-44402/)
 - [GANDALF_2112](https://makersplace.com/hai/gandalf_2112-1-of-1-44669/)
@@ -34,4 +32,3 @@ Artworks by GANDALF on makersplace:
 
 
 ![](https://github.com/hannahaih/Project_GANDALF/blob/main/gallery/gandalf2.gif)
-
