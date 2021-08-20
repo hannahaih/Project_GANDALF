@@ -31,7 +31,7 @@ Written and trained to explore the latent space of her own intrinsic artistic pr
 
 
 
-### Example artifacts:
+## Some example artifacts:
 
 ##### August 2021 No. 1
 
