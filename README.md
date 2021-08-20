@@ -4,7 +4,7 @@ _Hannah Reber, Berlin, 2020/21_
 
 ## Welcome!
 This is the home of Gandalf.
-![](https://github.com/hannahaih/Project_GANDALF/blob/main/gallery/gandalf1.gif)
+![](https://github.com/hannahaih/Project_GANDALF/blob/main/gifs/gandalf1.gif)
 
 ## About
 
@@ -26,4 +26,4 @@ Written and trained to explore the latent space of her own intrinsic artistic pr
 - [Slides](https://docs.google.com/presentation/d/1mHoXyQtSCE_kiChOERCEBBLBbHhAH3XoZRZxUVj2kP0/edit?usp=sharing)  
 - [Repository](https://github.com/hannahaih/Project-GANDALF.git)
 
-![](https://github.com/hannahaih/Project_GANDALF/blob/main/gallery/gandalf2.gif)
+![](https://github.com/hannahaih/Project_GANDALF/blob/main/gifs/gandalf2.gif)
