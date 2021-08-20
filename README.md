@@ -4,6 +4,7 @@ _Hannah Reber, Berlin, 2020/21_
 
 ## Welcome!
 This is the home of Gandalf.
+
 ![](https://github.com/hannahaih/Project_GANDALF/blob/main/gifs/gandalf1.gif)
 
 ## About
