@@ -29,7 +29,7 @@ Written and trained to explore the latent space of her own intrinsic artistic pr
 
 ## Example artifacts
 
-**No.1 August 2021**
+**No. 1 August 2021**
 
 ![](https://github.com/hannahaih/Project_GANDALF/blob/main/gifs/2021_August_No1.gif)
 
