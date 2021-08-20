@@ -27,4 +27,10 @@ Written and trained to explore the latent space of her own intrinsic artistic pr
 - [Slides](https://docs.google.com/presentation/d/1mHoXyQtSCE_kiChOERCEBBLBbHhAH3XoZRZxUVj2kP0/edit?usp=sharing)  
 - [Repository](https://github.com/hannahaih/Project-GANDALF.git)
 
+## Example artifacts
+
+**August 2021 No.1**
+![](https://github.com/hannahaih/Project_GANDALF/blob/main/gifs/2021_August_No1.gif)
+
+**August 2020 No.2**
 ![](https://github.com/hannahaih/Project_GANDALF/blob/main/gifs/gandalf2.gif)
