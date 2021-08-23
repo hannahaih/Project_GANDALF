@@ -30,16 +30,8 @@ Written and trained to explore the latent space of her own intrinsic artistic pr
 - [Repository](https://github.com/hannahaih/Project-GANDALF.git)
 
 
-## Some more example artifacts:
+## More example artifacts:
 
-##### August 2021 No. 1
-
-![](https://github.com/hannahaih/Project_GANDALF/blob/main/gifs/2021_August_No1.gif)
-
-##### August 2021 No. 2
-
-![](https://github.com/hannahaih/Project_GANDALF/blob/main/gifs/2021_August_No_2.gif)
-
-##### August 2021 No. 3
+##### August 2021, trained by [Gert-Jan Akerboom](https://linktr.ee/GertJanAkerboom)
 
 ![](https://github.com/hannahaih/Project_GANDALF/blob/main/gifs/2021_August_No3.gif)
