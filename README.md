@@ -35,3 +35,7 @@ Written and trained to explore the latent space of her own intrinsic artistic pr
 ##### August 2021, trained by [Gert-Jan Akerboom](https://linktr.ee/GertJanAkerboom)
 
 ![](https://github.com/hannahaih/Project_GANDALF/blob/main/gifs/2021_August_No3.gif)
+
+##### January 2021, trained by Hannah Reber
+
+![](https://github.com/hannahaih/Project_GANDALF/blob/main/gifs/2021_January_No1.gif)
