@@ -39,3 +39,7 @@ Written and trained to explore the latent space of her own intrinsic artistic pr
 ##### August 2021 No. 2
 
 ![](https://github.com/hannahaih/Project_GANDALF/blob/main/gifs/2021_August_No_2.gif)
+
+##### August 2021 No. 3
+
+![](https://github.com/hannahaih/Project_GANDALF/blob/main/gifs/2021_August_No3.gif)
