@@ -38,4 +38,4 @@ Written and trained to explore the latent space of her own intrinsic artistic pr
 
 ##### January 2021, trained by Hannah Reber
 
-![](https://github.com/hannahaih/Project_GANDALF/blob/main/gifs/2021_January_No1.gif)
+![](https://github.com/hannahaih/Project_GANDALF/blob/main/gifs/2021_January_No2.gif)
