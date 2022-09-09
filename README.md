@@ -1,6 +1,6 @@
 # GANDALF - PyTorch GAN Art Project
 
-_Hannah Reber, Berlin, 2020/21_
+_Hannah Reber, Berlin, 2020_
 
 ## Welcome!
 This is the home of Gandalf.
